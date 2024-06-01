@@ -15,6 +15,17 @@
 http://127.0.0.1:8000/docs or http://localhost:8000/docs will give us documentation like postman where we can check and test our api.
  
 
+## Lessons
+<ol>
+    <li>Introduction</li>
+    <li>Path Parameters</li>
+    <li>Query Parameters</li>
+    <li>Reqeust Body</li>
+    <li>Query Parameters and String Validation</li>
+    <li>Path Parameters and Numeric Validation</li>
+    <li>Body - Multiple Parameters</li>
+    <li>Body - Field</li>
+</ol>
 
 
 
