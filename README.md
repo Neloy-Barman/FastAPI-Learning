@@ -25,6 +25,9 @@ http://127.0.0.1:8000/docs or http://localhost:8000/docs will give us documentat
     <li>Path Parameters and Numeric Validation</li>
     <li>Body - Multiple Parameters</li>
     <li>Body - Field</li>
+    <li>Body - Nested Models</li>
+    <li>Declare Request Example Data</li>
+    <li>Extra Data Types</li>
 </ol>
 
 
